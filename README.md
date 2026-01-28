@@ -1,7 +1,7 @@
 # InDMShopBot
 
 The best and most advanced Telegram shopping MiniApp and Bot in the market.
-The MiniApp and Boot have many features to increase your sales and customers' satisfaction and trust seamlessly. 
+The MiniApp and Bot have many features to increase your sales and customers' satisfaction and trust seamlessly. 
 
 # TRY THE BOT NOW: [InDMShopBot](https://t.me/indmshopbot) OR [Test Demo Bot](https://t.me/Allmetest1bot)
 

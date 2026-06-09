@@ -1,5 +1,5 @@
 # InDMShopBot
-
+A production-ready Telegram shop bot.
 The best and most advanced Telegram shopping MiniApp and Bot in the market.
 The MiniApp and Bot have many features to increase your sales and customers' satisfaction and trust seamlessly. 
 
